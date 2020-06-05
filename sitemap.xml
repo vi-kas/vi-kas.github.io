@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/decision-to-make-yourself/</loc>
-    <lastmod>2020-06-05T18:49:20+08:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/believe/</loc>
+    <lastmod>2020-06-05T18:48:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/psychology/</loc>
+    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/simon-sinek/</loc>
+    <lastmod>2020-06-05T18:48:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-06-05T18:57:41+08:00</lastmod>
   </url>
   
@@ -18,83 +43,13 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/behavior/</loc>
-    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/problems/</loc>
-    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/problems-everyone-have-their-own/</loc>
-    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/psychology/</loc>
-    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/self/</loc>
-    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/vikash-sharma/</loc>
     <lastmod>2020-06-05T18:57:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/seed-an-idea/</loc>
-    <lastmod>2020-06-05T18:48:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/believe/</loc>
-    <lastmod>2020-06-05T18:48:07+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/why-believe/</loc>
     <lastmod>2020-06-05T18:48:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/results-planting-vs-growing-a-tree/</loc>
-    <lastmod>2020-06-05T18:47:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/fear-sister-of-an-excuse/</loc>
-    <lastmod>2020-06-05T18:47:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/urge-stay-away-from-it/</loc>
-    <lastmod>2020-06-05T18:47:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/take-bold-bets/</loc>
-    <lastmod>2020-06-05T18:46:41+08:00</lastmod>
   </url>
   
   <url>
@@ -193,13 +148,18 @@
   </url>
   
   <url>
+    <loc>/tag/decision/</loc>
+    <lastmod>2020-06-05T18:49:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/decision-making/</loc>
     <lastmod>2020-06-05T18:27:49+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/psychology/</loc>
-    <lastmod>2020-06-05T18:27:49+08:00</lastmod>
+    <lastmod>2020-06-05T18:49:20+08:00</lastmod>
   </url>
   
   <url>
@@ -208,8 +168,98 @@
   </url>
   
   <url>
+    <loc>/tag/boldness/</loc>
+    <lastmod>2020-06-05T18:46:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/motivation/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/motivation/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/success/</loc>
+    <lastmod>2020-06-05T18:46:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/take-bold-bets/</loc>
+    <lastmod>2020-06-05T18:46:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vikas-sharma/</loc>
+    <lastmod>2020-06-05T18:46:41+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/behaviour/</loc>
     <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/feeling/</loc>
+    <lastmod>2020-06-05T18:47:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/urge/</loc>
+    <lastmod>2020-06-05T18:47:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/urge-stay-away-from-it/</loc>
+    <lastmod>2020-06-05T18:47:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/execuse/</loc>
+    <lastmod>2020-06-05T18:47:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fear/</loc>
+    <lastmod>2020-06-05T18:47:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fear-sister-of-an-excuse/</loc>
+    <lastmod>2020-06-05T18:47:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reasons/</loc>
+    <lastmod>2020-06-05T18:47:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/results/</loc>
+    <lastmod>2020-06-05T18:47:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/results-planting-vs-growing-a-tree/</loc>
+    <lastmod>2020-06-05T18:47:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/passion/</loc>
+    <lastmod>2020-06-05T18:48:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/seed-an-idea/</loc>
+    <lastmod>2020-06-05T18:48:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/steve-jobs/</loc>
+    <lastmod>2020-06-05T18:48:17+08:00</lastmod>
   </url>
   
   <url>
@@ -228,17 +278,37 @@
   </url>
   
   <url>
+    <loc>/tag/behavior/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/problems/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/problems-everyone-have-their-own/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/self/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/decision-to-make-yourself/</loc>
+    <lastmod>2020-06-05T18:49:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/you/</loc>
+    <lastmod>2020-06-05T18:49:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/morning-run/</loc>
-    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/motivation/</loc>
-    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/motivation/</loc>
     <lastmod>2020-06-05T18:57:41+08:00</lastmod>
   </url>
   
