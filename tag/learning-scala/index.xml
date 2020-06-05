@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning-scala | Vikash Sharma</title>
+    <link>/tag/learning-scala/</link>
+      <atom:link href="/tag/learning-scala/index.xml" rel="self" type="application/rss+xml" />
+    <description>learning-scala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 18:32:43 +0800</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>learning-scala</title>
+      <link>/tag/learning-scala/</link>
+    </image>
+    
+    <item>
+      <title>Learning Scala Programming</title>
+      <link>/publication/learning-scala-programming/</link>
+      <pubDate>Fri, 05 Jun 2020 18:32:43 +0800</pubDate>
+      <guid>/publication/learning-scala-programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course | Vikash Sharma</title>
+    <link>/category/course/</link>
+      <atom:link href="/category/course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 18:32:31 +0800</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Course</title>
+      <link>/category/course/</link>
+    </image>
+    
+    <item>
+      <title>Scala Specific Design Patterns</title>
+      <link>/publication/scala-specific-design-patterns/</link>
+      <pubDate>Fri, 05 Jun 2020 18:32:31 +0800</pubDate>
+      <guid>/publication/scala-specific-design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala Fundamentals the Type System</title>
+      <link>/publication/scala-fundamentals-the-type-system/</link>
+      <pubDate>Fri, 05 Jun 2020 18:31:35 +0800</pubDate>
+      <guid>/publication/scala-fundamentals-the-type-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

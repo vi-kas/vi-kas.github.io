@@ -3,23 +3,248 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/post/decision-to-make-yourself/</loc>
+    <lastmod>2020-06-05T18:49:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/behavior/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/problems/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/problems-everyone-have-their-own/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/psychology/</loc>
+    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/self/</loc>
+    <lastmod>2020-06-05T18:48:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vikash-sharma/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/seed-an-idea/</loc>
+    <lastmod>2020-06-05T18:48:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/believe/</loc>
+    <lastmod>2020-06-05T18:48:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-believe/</loc>
+    <lastmod>2020-06-05T18:48:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/results-planting-vs-growing-a-tree/</loc>
+    <lastmod>2020-06-05T18:47:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fear-sister-of-an-excuse/</loc>
+    <lastmod>2020-06-05T18:47:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/urge-stay-away-from-it/</loc>
+    <lastmod>2020-06-05T18:47:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/take-bold-bets/</loc>
+    <lastmod>2020-06-05T18:46:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/5/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/book/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/learning-scala-programming/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/learning-scala/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/scala/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/scala-beginner-book/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/scala-book/</loc>
+    <lastmod>2020-06-05T18:32:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-06-05T18:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/course/</loc>
+    <lastmod>2020-06-05T18:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/design-patterns/</loc>
+    <lastmod>2020-06-05T18:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pluralsight/</loc>
+    <lastmod>2020-06-05T18:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pluralsight-scala/</loc>
+    <lastmod>2020-06-05T18:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/scala-specific-design-patterns/</loc>
+    <lastmod>2020-06-05T18:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/programming/</loc>
+    <lastmod>2020-06-05T18:31:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/scala-fundamentals-the-type-system/</loc>
+    <lastmod>2020-06-05T18:31:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/type-system/</loc>
+    <lastmod>2020-06-05T18:31:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cognitive/</loc>
+    <lastmod>2020-06-05T18:27:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/decision-making/</loc>
+    <lastmod>2020-06-05T18:27:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/psychology/</loc>
+    <lastmod>2020-06-05T18:27:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/waiting-to-be-identified/</loc>
+    <lastmod>2020-06-05T18:27:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/behaviour/</loc>
+    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/human/</loc>
+    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/questions/</loc>
+    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/questions/</loc>
+    <lastmod>2020-06-05T18:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/morning-run/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/motivation/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/motivation/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-a-morning-run-teaches-you/</loc>
+    <lastmod>2020-06-05T18:57:41+08:00</lastmod>
   </url>
   
   <url>
@@ -27,11 +252,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>/author/shriti-sinhal/</loc>
   </url>
   
   <url>
