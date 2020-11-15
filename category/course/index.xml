@@ -5,12 +5,20 @@
     <link>/category/course/</link>
       <atom:link href="/category/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Course</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 18:32:31 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Nov 2020 20:31:35 +0800</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Course</title>
       <link>/category/course/</link>
     </image>
+    
+    <item>
+      <title>Scala Asynchronous Programming</title>
+      <link>/publication/scala-asynchronous-programming/</link>
+      <pubDate>Sun, 15 Nov 2020 20:31:35 +0800</pubDate>
+      <guid>/publication/scala-asynchronous-programming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scala Specific Design Patterns</title>
